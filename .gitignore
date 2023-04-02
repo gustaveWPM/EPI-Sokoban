@@ -1,0 +1,8 @@
+*.o
+*#
+*~
+my_sokoban
+vgcore*
+maps/
+maps/*
+.vscode/
